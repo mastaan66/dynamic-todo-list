@@ -1,0 +1,33 @@
+html {
+  background-color: #0c0c0c;
+  color: #f1eedc;
+  font-size: 20px;
+}
+
+#heading {
+  text-align: center;
+}
+
+#btn {
+  width: 90px;
+  font-size: larger;
+  font-weight: 700;
+  background-color: #f2613f;
+  display: block;
+  margin: auto;
+}
+
+ul {
+  background: #9b3922;
+  padding: 10px;
+  border: 1px solid white;
+  width: 80%;
+  margin: auto;
+  margin-top: 20px;
+}
+
+li {
+  margin-left: 20px;
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
